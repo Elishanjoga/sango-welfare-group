@@ -6,7 +6,7 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuLabel, DropdownMenuSeparator, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
-import { MoreHorizontal, Edit3, Trash2, Eye, CheckSquare, ExternalLink } from 'lucide-react';
+import { MoreHorizontal, Edit3, Trash2, Eye, CheckSquare, ExternalLink, XCircle } from 'lucide-react';
 import WelfareCaseFormModal from './WelfareCaseFormModal';
 
 
