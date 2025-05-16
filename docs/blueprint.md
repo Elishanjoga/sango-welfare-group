@@ -1,4 +1,4 @@
-# **App Name**: SaccoCentral
+# **App Name**: Sango welfare group
 
 ## Core Features:
 
